@@ -1,0 +1,1 @@
+District,Gender,SSC Math Percentage,SSC Total Percentage,HSC Physics Percentage,HSC Chemistry Percentage,HSC Math Percentage,HSC Subject Percentage,HSC English Percentage,HSC Total Percentage,CET Percentile,JEE Percentile,Merit No,Merit Marks,Admitted,
